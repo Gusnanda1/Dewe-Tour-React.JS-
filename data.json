@@ -1,0 +1,28 @@
+{
+  "userData": [
+    {
+      "id": "1",
+      "fullname": "bagus",
+      "email": "bagus@gmail.com",
+      "password": "123",
+      "phone": "081234567890",
+      "address": "Bekasi"
+    },
+    {
+      "id": "2",
+      "fullname": "bagus2",
+      "email": "bagus@gmail.com",
+      "password": "123",
+      "phone": "081234567890",
+      "address": "Bekasi"
+    },
+    {
+      "id": "3",
+      "fullname": "bagus3",
+      "email": "bagus@gmail.com",
+      "password": "123",
+      "phone": "081234567890",
+      "address": "Bekasi"
+    }
+  ]
+}
